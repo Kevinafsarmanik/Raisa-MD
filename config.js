@@ -16,12 +16,12 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapi.xyz': 'Your Key',
 }
-//'6285163999446',
+//'6282132156123',
 // Other
-global.owner = ['6282311717972', '6285163999446']
-global.seller = ['6282311717972']
-global.premium = ['6285163999446','6282311717972']
-global.packname = 'Zidan'
+global.owner = ['6282132156123', '6282132156123']
+global.seller = ['6282132156123']
+global.premium = ['6282132156123','6282132156123']
+global.packname = 'kevinafsar_'
 global.author = 'GantengBabgett'
 global.sessionName = 'raisa'
 global.prefa = ['','!','.','🐦','🐤','🗿']
