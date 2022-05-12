@@ -572,7 +572,7 @@ Silahkan @${rara.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                rara.reply('Script : https://github.com/rexha-kenzz\n\n Dont Forget Give Star\n\nDonate\n\n Dana : 085163999446\nSaweria : https://saweria.co/zoedev\n\n Dont Forget Donate')
+                rara.reply('Script : Di github banyak\n\n Dont Forget Give Star\n\nDonate\n\n Dana : 6282132156123\nSaweria : https://saweria.co/\n\n Dont Forget Donate')
             }
             break
             case 'chat': {
@@ -1179,7 +1179,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1218,7 +1218,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2598,12 +2598,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 851-6399-9446'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2649,12 +2649,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'ISNTAGRAM',
-                                    url: 'https://instagrarara.com/_zidanfadilaharsa'
+                                    url: 'https://instagram.com/kevinafsar_'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2695,12 +2695,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2747,12 +2747,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2813,12 +2813,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2860,12 +2860,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2905,12 +2905,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2954,12 +2954,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3019,12 +3019,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3067,12 +3067,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3112,12 +3112,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3156,12 +3156,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3198,12 +3198,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3238,12 +3238,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3284,12 +3284,12 @@ let bttn = [{
 let bttn = [{
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https://chat.whatsapp.com/Cqb6hmrobUB4VwMmGOLzDz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GITHUB',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3377,12 +3377,12 @@ footer = 'Follow ig @_zidanfadilaharsa'
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/rexha-kenzz'
+                                    url: '-'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https//chat.whatsapp.com/C0BNVFZMCF80nw1w2xNhNz'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3554,7 +3554,7 @@ Hallo ${pushname} Berikut adalah daftar cheat yang tersedia:
  ➡️ 30 DAYS: Rp,.250.000
  
  
- Chatt @6282311717972 Jika ${pushname} minat`, mentions: ['6282311717972@s.whatsapp.net'] })
+ Chatt @6282132156123 Jika ${pushname} minat`, mentions: ['6282311717972@s.whatsapp.net'] })
  break
 case 'qris': {
 
@@ -3620,7 +3620,7 @@ https://discord.gg/ZTRDShV5tw
 - Peserta Wajib Nonton LIVE Discord
 - Hadiah Sewaktu-waktu dapat berubah tanpa pemberitahuan
 ====TERIMA KASIH ATAS PARTISIPASINYA====`)
-raisa.sendMessage(rara.chat, { text: 'Yang lupa Code Giveaway PC @6282311717972 aja ya ', mentions: ['6282311717972@s.whatsapp.net'] })
+raisa.sendMessage(rara.chat, { text: 'Yang lupa Code Giveaway PC @6282132156123 aja ya ', mentions: ['6282132156123@s.whatsapp.net'] })
 
 // Jika pakai gambar
 /*teks = `
@@ -3632,7 +3632,7 @@ let tombol =  [{ /* Tombol
 
                   urlButton  = Tombol Link
 				  callButton = Tommbol panggilan, {
-					  callButton: {displayText: 'Call me!', phoneNumber: '+1 (234) 5678-901'}
+					  callButton: {displayText: 'Call me!', phoneNumber: '+62 821-3215-6123'}
 					  },
 				  quickReplyButton = Tombol yang konek dengan case 
 				  displayText =  Teks yang di tampil kan
@@ -3645,7 +3645,7 @@ let tombol =  [{ /* Tombol
                             }, {
                                 urlButton: {
                                     displayText: 'GRUB WA',
-                                    url: 'https//'
+                                    url: 'https://chat.whatsapp.com/KsCSv8SvQ7G8Enu6viEX7m'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3714,7 +3714,7 @@ let tombol =  [{ // Tombol
                             }]
  raisa.send5ButImg(rara.chat, teksnya, footer, gambarnya, tombol)    
 await sleep(3000)
-raisa.sendMessage(rara.chat, { text: `Hubungi Admin @6282311717972 jika *${pushname}* berminat menjadi Reseller😁✌️`, mentions: ['6282311717972@s.whatsapp.net'] })
+raisa.sendMessage(rara.chat, { text: `Hubungi Admin @6282132156123 jika *${pushname}* berminat menjadi Reseller😁✌️`, mentions: ['6282311717972@s.whatsapp.net'] })
 }
     break
 	case 'dmml':
@@ -3785,7 +3785,7 @@ case 'bot': {
 break
 
 case 'prem': {
-	raisa.sendMessage(rara.chat, { text: `Chatt @6282311717972 Jika *${pushname}* minat
+	raisa.sendMessage(rara.chat, { text: `Chatt @6282132156123 Jika *${pushname}* minat
 	
 *YOUTUBE PREMIUM :*
 • 1 Bulan Via Invite Email  = Rp. 5.000
@@ -3881,8 +3881,8 @@ raisa.sendMessage(rara.chat, { text: `⚔ *====Cash PointBlank====* ⚔
 *3.* *Bisa Berkali-kali* 
 *4.* Tanyakan Stock Terlebih Dahulu Sebelum Transfer
 
-Hubungi @6282311717972 jika *${pushname}* berminat untuk memesan
-`, mentions: ['6282311717972@s.whatsapp.net']})
+Hubungi @6282132156123 jika *${pushname}* berminat untuk memesan
+`, mentions: ['6282132156123@s.whatsapp.net']})
 }
 break
 case 'gbpb':
@@ -4268,7 +4268,7 @@ raisa.sendMessage(rara.chat, {text: `
 - Bonus Script Bebas milih Script Biasa.
 - Jika Sciprt tidak work 100% = REFUND
 
-Hubungi @6282311717972 jika *${pushname}* berminat untuk memesan
+Hubungi @6282132156123 jika *${pushname}* berminat untuk memesan
 `, mentions: ['6282311717972@s.whatsapp.net']} )
 break
 case 'download':
